@@ -1,2 +1,3 @@
 hello
 second line added
+this line will be added to the feature
